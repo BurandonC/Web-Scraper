@@ -1,2 +1,2 @@
 # Web-Scraper
-Learning how to create a Web Scraper that goes through Amazon
+Learning how to create a Web Scraper that calls on Google's Weather API
